@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\Web\\WebApplicationDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7814AAA9-7043-4DAF-A39D-09A65A7DBE70}|WebApplicationDemo.csproj|c:\\users\\pc\\documents\\web\\webapplicationdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7814AAA9-7043-4DAF-A39D-09A65A7DBE70}|WebApplicationDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7814AAA9-7043-4DAF-A39D-09A65A7DBE70}|WebApplicationDemo.csproj|c:\\users\\pc\\documents\\web\\webapplicationdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7814AAA9-7043-4DAF-A39D-09A65A7DBE70}|WebApplicationDemo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7814AAA9-7043-4DAF-A39D-09A65A7DBE70}|WebApplicationDemo.csproj|c:\\users\\pc\\documents\\web\\webapplicationdemo\\dal\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7814AAA9-7043-4DAF-A39D-09A65A7DBE70}|WebApplicationDemo.csproj|solutionrelative:dal\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7814AAA9-7043-4DAF-A39D-09A65A7DBE70}|WebApplicationDemo.csproj|c:\\users\\pc\\documents\\web\\webapplicationdemo\\controllers\\todoitemswithsqlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7814AAA9-7043-4DAF-A39D-09A65A7DBE70}|WebApplicationDemo.csproj|solutionrelative:controllers\\todoitemswithsqlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7814AAA9-7043-4DAF-A39D-09A65A7DBE70}|WebApplicationDemo.csproj|c:\\users\\pc\\documents\\web\\webapplicationdemo\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7814AAA9-7043-4DAF-A39D-09A65A7DBE70}|WebApplicationDemo.csproj|solutionrelative:controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7814AAA9-7043-4DAF-A39D-09A65A7DBE70}|WebApplicationDemo.csproj|c:\\users\\pc\\documents\\web\\webapplicationdemo\\webapplicationdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7814AAA9-7043-4DAF-A39D-09A65A7DBE70}|WebApplicationDemo.csproj|solutionrelative:webapplicationdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7814AAA9-7043-4DAF-A39D-09A65A7DBE70}|WebApplicationDemo.csproj|c:\\users\\pc\\documents\\web\\webapplicationdemo\\dal\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7814AAA9-7043-4DAF-A39D-09A65A7DBE70}|WebApplicationDemo.csproj|solutionrelative:dal\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7814AAA9-7043-4DAF-A39D-09A65A7DBE70}|WebApplicationDemo.csproj|c:\\users\\pc\\documents\\web\\webapplicationdemo\\model\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7814AAA9-7043-4DAF-A39D-09A65A7DBE70}|WebApplicationDemo.csproj|solutionrelative:model\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiKeyMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Web\\WebApplicationDemo\\DAL\\ApiKeyMiddleware.cs",
+              "RelativeDocumentMoniker": "DAL\\ApiKeyMiddleware.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Web\\WebApplicationDemo\\DAL\\ApiKeyMiddleware.cs",
+              "RelativeToolTip": "DAL\\ApiKeyMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T06:52:54.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Web\\WebApplicationDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Web\\WebApplicationDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T06:51:15.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Web\\WebApplicationDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Web\\WebApplicationDemo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-09T06:51:07.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoItemsWithSQLController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Web\\WebApplicationDemo\\Controllers\\TodoItemsWithSQLController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TodoItemsWithSQLController.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Web\\WebApplicationDemo\\Controllers\\TodoItemsWithSQLController.cs",
+              "RelativeToolTip": "Controllers\\TodoItemsWithSQLController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAkwEAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T06:59:40.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Web\\WebApplicationDemo\\Controllers\\TodoItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TodoItemsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Web\\WebApplicationDemo\\Controllers\\TodoItemsController.cs",
+              "RelativeToolTip": "Controllers\\TodoItemsController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T06:34:32.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Web\\WebApplicationDemo\\DAL\\Database.cs",
+              "RelativeDocumentMoniker": "DAL\\Database.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Web\\WebApplicationDemo\\DAL\\Database.cs",
+              "RelativeToolTip": "DAL\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T06:41:09.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApplicationDemo.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Web\\WebApplicationDemo\\WebApplicationDemo.csproj",
+              "RelativeDocumentMoniker": "WebApplicationDemo.csproj",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Web\\WebApplicationDemo\\WebApplicationDemo.csproj",
+              "RelativeToolTip": "WebApplicationDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-02T06:08:05.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\Web\\WebApplicationDemo\\Model\\TodoItem.cs",
+              "RelativeDocumentMoniker": "Model\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\Web\\WebApplicationDemo\\Model\\TodoItem.cs",
+              "RelativeToolTip": "Model\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T06:21:10.789Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
